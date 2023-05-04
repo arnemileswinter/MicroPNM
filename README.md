@@ -1,5 +1,11 @@
 # MicroPNM 🎨💻
 
+![Rust](https://img.shields.io/badge/rust-1.50%2B-orange.svg)
+![Crates.io](https://img.shields.io/crates/v/micropnm)
+![GitHub issues](https://img.shields.io/github/issues/arnemileswinter/MicroPNM)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/arnemileswinter/MicroPNM)
+
+
 MicroPNM is a small and efficient library for parsing PNM image formats in Rust. 🦀
 It is designed to be minimalistic and highly optimized for resource-constrained systems, 🔍
 making it suitable for embedded contexts and WebAssembly using the `include_bytes!` macro. 💪
