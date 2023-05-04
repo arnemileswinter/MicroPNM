@@ -3,5 +3,6 @@ name = "micropnm"
 version = "0.1.0"
 edition = "2021"
 description = "MicroPNM is a lightweight, zero-dependency Rust crate for parsing binary PPM image files. It is designed to with minimal memory usage and is suitable for embedded contexts and WebAssembly."
+license = "MIT"
 
 [dependencies]
